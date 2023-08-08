@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+form {
+    margin-top: 10px;
+}
+
+label, input {
+    margin-bottom: 5px;
+}
+
+button {
+    margin-top: 5px;
+}
